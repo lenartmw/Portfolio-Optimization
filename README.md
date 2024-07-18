@@ -1,8 +1,8 @@
 # Portfolio-Optimization
-Creating a diversified portfolio of 19 selected stocks from WSE 
+Creating a diversified portfolio of stocks quoted on WSE.
 
 # Dataset #
-The monthly stock returns between 4/1/10 and 29/12/23 were obtained from [Stooq](https://stooq.pl/). The dates are located in _Data_ columns and adjusted closing prices under _Zamkniecie_
+The monthly stock returns between 4/1/10 and 29/12/23 of 19 companies were obtained from [Stooq](https://stooq.pl/). The dates are located in _Data_ columns and adjusted closing prices under _Zamkniecie_.
 
 # Data Preparation #
 The dataset had to be cleaned first due to multiple inconsistencies. Some stocks had missing dates and corresponding prices, so those dates had to be removed to ensure data consistency. The size of the sample was narrowed down from 3526 rows of data to 3164 after removing inconsistent observations. 
