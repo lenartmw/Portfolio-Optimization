@@ -2,7 +2,6 @@
 Creating a diversified portfolio of 19 selected stocks from WSE 
 
 # Dataset #
-columns Data -> dates, Zamkniecie -> adjusted closing price 
 The stock returns between 4/1/10 and 29/12/23 were obtained from [Stooq](https://stooq.pl/). The dates are located in _Data_ columns and adjusted closing prices under _Zamkniecie_
 
 # Data Preparation #
